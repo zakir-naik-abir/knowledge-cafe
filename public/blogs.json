@@ -1,52 +1,52 @@
 [
   {
     "id": 1001,
-    "cover": "https://example.com/cover1.jpg",
+    "cover": "https://i.ibb.co/HFjjWFy/programming-script-text-coding-word.jpg",
     "title": "The Mystery of the Hidden Treasure",
-    "author": "John Doe",
+    "author": "Zakir",
     "author_img": "https://i.ibb.co/mt7GTGW/Whats-App-Image-2023-12-28-at-8-52-45-PM-1.jpg",
     "posted_date": "2024-03-16",
-    "reading_time": 10,
+    "reading_time": 5,
     "hashtags": ["mystery", "adventure", "treasurehunt"]
   },
   {
     "id": 1002,
-    "cover": "https://example.com/cover2.jpg",
+    "cover": "https://i.ibb.co/hYtKWGs/composition-with-html-system-websites.jpg",
     "title": "Cooking Adventures: A Culinary Journey",
-    "author": "Jane Smith",
+    "author": "Zakir Hasan",
     "author_img": "https://i.ibb.co/8XzfRXR/Whats-App-Image-2023-12-28-at-8-52-45-PM-2.jpg",
     "posted_date": "2024-03-15",
-    "reading_time": 15,
+    "reading_time": 7,
     "hashtags": ["cooking", "recipes", "foodie"]
   },
   {
     "id": 1003,
-    "cover": "https://example.com/cover3.jpg",
+    "cover": "https://i.ibb.co/2ZFRP8b/website-design-content-layout-graphic.jpg",
     "title": "Exploring the Universe: Beyond the Stars",
-    "author": "David Johnson",
-    "author_img": "https://example.com/author3.jpg",
+    "author": "Zakir Naik",
+    "author_img": "https://i.ibb.co/166dXwR/1696908052671.jpg",
     "posted_date": "2024-03-14",
-    "reading_time": 20,
+    "reading_time": 4,
     "hashtags": ["space", "science", "cosmos"]
   },
   {
     "id": 1004,
-    "cover": "https://example.com/cover4.jpg",
+    "cover": "https://i.ibb.co/BfDsWDn/front-view-open-notepad-with-clothespins-staples.jpg",
     "title": "Gardening Secrets: Growing a Green Paradise",
-    "author": "Emily Brown",
-    "author_img": "https://example.com/author4.jpg",
+    "author": "Zakir Naik Abir",
+    "author_img": "https://i.ibb.co/YRSTZf8/1696908052712.jpg",
     "posted_date": "2024-03-13",
-    "reading_time": 12,
+    "reading_time": 10,
     "hashtags": ["gardening", "plants", "green"]
   },
   {
     "id": 1005,
-    "cover": "https://example.com/cover5.jpg",
+    "cover": "https://i.ibb.co/3CnwKMz/development-growth-progress-icon-concept.jpg",
     "title": "Fitness Fundamentals: A Beginner's Guide to Wellness",
-    "author": "Michael Williams",
-    "author_img": "https://example.com/author5.jpg",
+    "author": "Anupom",
+    "author_img": "https://i.ibb.co/Dfxgc0z/Whats-App-Image-2023-12-28-at-8-52-44-PM.jpg",
     "posted_date": "2024-03-12",
-    "reading_time": 18,
+    "reading_time": 9,
     "hashtags": ["fitness", "health", "wellness"]
   }
 ]
